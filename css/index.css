@@ -1,0 +1,11 @@
+body	
+	{background: #eaf3da;}
+p.testo	{
+	font-family: sans-serif;
+	color: blue;
+	border-bottom: 1px solid gray;
+}
+p.testo1 {
+	color: red;
+
+}
